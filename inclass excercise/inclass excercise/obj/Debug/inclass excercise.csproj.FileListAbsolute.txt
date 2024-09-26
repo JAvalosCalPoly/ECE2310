@@ -1,0 +1,7 @@
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\inclass excercise\inclass excercise\bin\Debug\inclass excercise.exe.config
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\inclass excercise\inclass excercise\bin\Debug\inclass excercise.exe
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\inclass excercise\inclass excercise\bin\Debug\inclass excercise.pdb
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\inclass excercise\inclass excercise\obj\Debug\inclass excercise.csproj.AssemblyReference.cache
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\inclass excercise\inclass excercise\obj\Debug\inclass excercise.csproj.CoreCompileInputs.cache
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\inclass excercise\inclass excercise\obj\Debug\inclass excercise.exe
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\inclass excercise\inclass excercise\obj\Debug\inclass excercise.pdb

@@ -1,0 +1,7 @@
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\repetition\repetition test\repetition test\bin\Debug\repetition test.exe.config
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\repetition\repetition test\repetition test\bin\Debug\repetition test.exe
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\repetition\repetition test\repetition test\bin\Debug\repetition test.pdb
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\repetition\repetition test\repetition test\obj\Debug\repetition test.csproj.AssemblyReference.cache
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\repetition\repetition test\repetition test\obj\Debug\repetition test.csproj.CoreCompileInputs.cache
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\repetition\repetition test\repetition test\obj\Debug\repetition test.exe
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\repetition\repetition test\repetition test\obj\Debug\repetition test.pdb

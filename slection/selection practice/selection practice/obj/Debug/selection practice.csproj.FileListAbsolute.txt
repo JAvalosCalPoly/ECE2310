@@ -1,0 +1,7 @@
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\slection\selection practice\selection practice\bin\Debug\selection practice.exe.config
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\slection\selection practice\selection practice\bin\Debug\selection practice.exe
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\slection\selection practice\selection practice\bin\Debug\selection practice.pdb
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\slection\selection practice\selection practice\obj\Debug\selection practice.csproj.AssemblyReference.cache
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\slection\selection practice\selection practice\obj\Debug\selection practice.csproj.CoreCompileInputs.cache
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\slection\selection practice\selection practice\obj\Debug\selection practice.exe
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\slection\selection practice\selection practice\obj\Debug\selection practice.pdb
