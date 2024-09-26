@@ -1,0 +1,5 @@
+﻿Build started at 3:32 PM...
+1>------ Build started: Project: Tutorial 1, Configuration: Debug Any CPU ------
+1>  Tutorial 1 -> C:\Users\jonay\OneDrive\Documents\class notes\ece2310\hello world\Tutorial 1\Tutorial 1\Tutorial 1\bin\Debug\Tutorial 1.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 3:32 PM and took 00.313 seconds ==========

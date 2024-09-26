@@ -1,0 +1,7 @@
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\hello world\Project1\Project1\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\hello world\Project1\Project1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\hello world\Project1\Project1\Project1\bin\Debug\Project1.exe.config
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\hello world\Project1\Project1\Project1\bin\Debug\Project1.exe
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\hello world\Project1\Project1\Project1\bin\Debug\Project1.pdb
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\hello world\Project1\Project1\Project1\obj\Debug\Project1.exe
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\hello world\Project1\Project1\Project1\obj\Debug\Project1.pdb

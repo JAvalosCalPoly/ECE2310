@@ -1,0 +1,7 @@
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\hello world\Temperature Converter\TempConv\Temperature Converter\bin\Debug\Temperature Converter.exe.config
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\hello world\Temperature Converter\TempConv\Temperature Converter\bin\Debug\Temperature Converter.exe
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\hello world\Temperature Converter\TempConv\Temperature Converter\bin\Debug\Temperature Converter.pdb
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\hello world\Temperature Converter\TempConv\Temperature Converter\obj\Debug\Temperature Converter.csproj.AssemblyReference.cache
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\hello world\Temperature Converter\TempConv\Temperature Converter\obj\Debug\Temperature Converter.csproj.CoreCompileInputs.cache
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\hello world\Temperature Converter\TempConv\Temperature Converter\obj\Debug\Temperature Converter.exe
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\hello world\Temperature Converter\TempConv\Temperature Converter\obj\Debug\Temperature Converter.pdb
