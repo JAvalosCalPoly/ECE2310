@@ -1,0 +1,7 @@
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\class ecercise 2\class ecercise 2\bin\Debug\class ecercise 2.exe.config
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\class ecercise 2\class ecercise 2\bin\Debug\class ecercise 2.exe
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\class ecercise 2\class ecercise 2\bin\Debug\class ecercise 2.pdb
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\class ecercise 2\class ecercise 2\obj\Debug\class ecercise 2.csproj.AssemblyReference.cache
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\class ecercise 2\class ecercise 2\obj\Debug\class ecercise 2.csproj.CoreCompileInputs.cache
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\class ecercise 2\class ecercise 2\obj\Debug\class ecercise 2.exe
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\class ecercise 2\class ecercise 2\obj\Debug\class ecercise 2.pdb

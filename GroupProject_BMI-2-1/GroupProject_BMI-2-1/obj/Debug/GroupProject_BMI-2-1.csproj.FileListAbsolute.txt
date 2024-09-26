@@ -1,0 +1,10 @@
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\GroupProject_BMI-2-1\GroupProject_BMI-2-1\bin\Debug\GroupProject_BMI-2-1.exe.config
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\GroupProject_BMI-2-1\GroupProject_BMI-2-1\bin\Debug\GroupProject_BMI-2-1.exe
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\GroupProject_BMI-2-1\GroupProject_BMI-2-1\bin\Debug\GroupProject_BMI-2-1.pdb
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\GroupProject_BMI-2-1\GroupProject_BMI-2-1\obj\Debug\GroupProject_BMI-2-1.csproj.AssemblyReference.cache
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\GroupProject_BMI-2-1\GroupProject_BMI-2-1\obj\Debug\GroupProject_BMI_2_1.Form1.resources
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\GroupProject_BMI-2-1\GroupProject_BMI-2-1\obj\Debug\GroupProject_BMI_2_1.Properties.Resources.resources
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\GroupProject_BMI-2-1\GroupProject_BMI-2-1\obj\Debug\GroupProject_BMI-2-1.csproj.GenerateResource.cache
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\GroupProject_BMI-2-1\GroupProject_BMI-2-1\obj\Debug\GroupProject_BMI-2-1.csproj.CoreCompileInputs.cache
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\GroupProject_BMI-2-1\GroupProject_BMI-2-1\obj\Debug\GroupProject_BMI-2-1.exe
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\GroupProject_BMI-2-1\GroupProject_BMI-2-1\obj\Debug\GroupProject_BMI-2-1.pdb

@@ -1,0 +1,7 @@
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\hello world\feedback\Feedback\Feedback\obj\Debug\Feedback.csproj.AssemblyReference.cache
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\hello world\feedback\Feedback\Feedback\obj\Debug\Feedback.csproj.CoreCompileInputs.cache
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\hello world\feedback\Feedback\Feedback\bin\Debug\Feedback.exe.config
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\hello world\feedback\Feedback\Feedback\bin\Debug\Feedback.exe
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\hello world\feedback\Feedback\Feedback\bin\Debug\Feedback.pdb
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\hello world\feedback\Feedback\Feedback\obj\Debug\Feedback.exe
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\hello world\feedback\Feedback\Feedback\obj\Debug\Feedback.pdb

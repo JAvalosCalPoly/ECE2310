@@ -1,0 +1,7 @@
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\hello world\ECE2310HelloWorld\ECE2310HelloWorld\bin\Debug\ECE2310HelloWorld.exe.config
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\hello world\ECE2310HelloWorld\ECE2310HelloWorld\bin\Debug\ECE2310HelloWorld.exe
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\hello world\ECE2310HelloWorld\ECE2310HelloWorld\bin\Debug\ECE2310HelloWorld.pdb
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\hello world\ECE2310HelloWorld\ECE2310HelloWorld\obj\Debug\ECE2310HelloWorld.csproj.AssemblyReference.cache
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\hello world\ECE2310HelloWorld\ECE2310HelloWorld\obj\Debug\ECE2310HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\hello world\ECE2310HelloWorld\ECE2310HelloWorld\obj\Debug\ECE2310HelloWorld.exe
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\hello world\ECE2310HelloWorld\ECE2310HelloWorld\obj\Debug\ECE2310HelloWorld.pdb

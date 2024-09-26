@@ -1,0 +1,5 @@
+﻿Build started at 3:44 PM...
+1>------ Build started: Project: Feedback, Configuration: Debug Any CPU ------
+1>  Feedback -> C:\Users\jonay\OneDrive\Documents\class notes\ece2310\hello world\feedback\Feedback\Feedback\bin\Debug\Feedback.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 3:44 PM and took 00.345 seconds ==========
