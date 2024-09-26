@@ -1,0 +1,10 @@
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\Hw1\Q2\Homework 1 Q 2\Homework 1 Q 2\bin\Debug\Homework 1 Q 2.exe.config
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\Hw1\Q2\Homework 1 Q 2\Homework 1 Q 2\bin\Debug\Homework 1 Q 2.exe
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\Hw1\Q2\Homework 1 Q 2\Homework 1 Q 2\bin\Debug\Homework 1 Q 2.pdb
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\Hw1\Q2\Homework 1 Q 2\Homework 1 Q 2\obj\Debug\Homework 1 Q 2.csproj.AssemblyReference.cache
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\Hw1\Q2\Homework 1 Q 2\Homework 1 Q 2\obj\Debug\Homework_1_Q_2.Form1.resources
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\Hw1\Q2\Homework 1 Q 2\Homework 1 Q 2\obj\Debug\Homework_1_Q_2.Properties.Resources.resources
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\Hw1\Q2\Homework 1 Q 2\Homework 1 Q 2\obj\Debug\Homework 1 Q 2.csproj.GenerateResource.cache
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\Hw1\Q2\Homework 1 Q 2\Homework 1 Q 2\obj\Debug\Homework 1 Q 2.csproj.CoreCompileInputs.cache
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\Hw1\Q2\Homework 1 Q 2\Homework 1 Q 2\obj\Debug\Homework 1 Q 2.exe
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\Hw1\Q2\Homework 1 Q 2\Homework 1 Q 2\obj\Debug\Homework 1 Q 2.pdb

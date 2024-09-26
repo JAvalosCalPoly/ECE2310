@@ -1,0 +1,7 @@
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\Hw1\Q1\Homework1Q1\Homework1Q1\bin\Debug\Homework1Q1.exe.config
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\Hw1\Q1\Homework1Q1\Homework1Q1\bin\Debug\Homework1Q1.exe
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\Hw1\Q1\Homework1Q1\Homework1Q1\bin\Debug\Homework1Q1.pdb
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\Hw1\Q1\Homework1Q1\Homework1Q1\obj\Debug\Homework1Q1.csproj.AssemblyReference.cache
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\Hw1\Q1\Homework1Q1\Homework1Q1\obj\Debug\Homework1Q1.csproj.CoreCompileInputs.cache
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\Hw1\Q1\Homework1Q1\Homework1Q1\obj\Debug\Homework1Q1.exe
+C:\Users\jonay\OneDrive\Documents\class notes\ece2310\Hw1\Q1\Homework1Q1\Homework1Q1\obj\Debug\Homework1Q1.pdb
