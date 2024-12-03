@@ -1,0 +1,14 @@
+C:\Users\aiyan\OneDrive\Documents\Jojo's C# files\Homework11\Homework11\bin\Debug\net8.0\Homework11.exe
+C:\Users\aiyan\OneDrive\Documents\Jojo's C# files\Homework11\Homework11\bin\Debug\net8.0\Homework11.deps.json
+C:\Users\aiyan\OneDrive\Documents\Jojo's C# files\Homework11\Homework11\bin\Debug\net8.0\Homework11.runtimeconfig.json
+C:\Users\aiyan\OneDrive\Documents\Jojo's C# files\Homework11\Homework11\bin\Debug\net8.0\Homework11.dll
+C:\Users\aiyan\OneDrive\Documents\Jojo's C# files\Homework11\Homework11\bin\Debug\net8.0\Homework11.pdb
+C:\Users\aiyan\OneDrive\Documents\Jojo's C# files\Homework11\Homework11\obj\Debug\net8.0\Homework11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aiyan\OneDrive\Documents\Jojo's C# files\Homework11\Homework11\obj\Debug\net8.0\Homework11.AssemblyInfoInputs.cache
+C:\Users\aiyan\OneDrive\Documents\Jojo's C# files\Homework11\Homework11\obj\Debug\net8.0\Homework11.AssemblyInfo.cs
+C:\Users\aiyan\OneDrive\Documents\Jojo's C# files\Homework11\Homework11\obj\Debug\net8.0\Homework11.csproj.CoreCompileInputs.cache
+C:\Users\aiyan\OneDrive\Documents\Jojo's C# files\Homework11\Homework11\obj\Debug\net8.0\Homework11.dll
+C:\Users\aiyan\OneDrive\Documents\Jojo's C# files\Homework11\Homework11\obj\Debug\net8.0\refint\Homework11.dll
+C:\Users\aiyan\OneDrive\Documents\Jojo's C# files\Homework11\Homework11\obj\Debug\net8.0\Homework11.pdb
+C:\Users\aiyan\OneDrive\Documents\Jojo's C# files\Homework11\Homework11\obj\Debug\net8.0\Homework11.genruntimeconfig.cache
+C:\Users\aiyan\OneDrive\Documents\Jojo's C# files\Homework11\Homework11\obj\Debug\net8.0\ref\Homework11.dll
